@@ -1,6 +1,6 @@
 FROM ubuntu:14.04
 
-LABEL description="ruby/bundler rspec testing for puppet 3.x"
+LABEL description="Bundler for rspec puppet 3 & ruby 1.9.x"
 LABEL maintainer="Grant Hammond <grant@f1fox.net>"
 
 ARG DEBIAN_FRONTEND=noninteractive
